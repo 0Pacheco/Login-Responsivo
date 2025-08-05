@@ -6,6 +6,23 @@
   box-sizing: border-box;
 }
 
+html, body {
+  height: 100%;
+  font-family: sans-serif;
+}
+
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+
+button, input, textarea, select {
+  font: inherit;
+  border: none;
+  background: none;
+}
+
+
 .login {
   width: 400px;
   padding: 40px;

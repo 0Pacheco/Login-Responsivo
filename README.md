@@ -42,9 +42,12 @@ Criar uma tela de login funcional e visualmente agradável, que se adapte a dife
 
    ```bash
    git clone https://github.com/0Pacheco/Login-Responsivo.git
+   ```
 
 2. Acesse o diretório do projeto:
+   ```bash
     cd Login-Responsivo
+   ```
 
 3. Abra o arquivo index.html no navegador de sua preferência.
 
@@ -70,6 +73,7 @@ Caso queira discutir sobre o projeto, tirar dúvidas ou colaborar:
 
 - GitHub: [0Pacheco](https://github.com/0Pacheco)
 - Email: victoremanuelpacheco957@gmail.com
+- LinkedIn: Victor Emanuel Pacheco
 
 ---
 
